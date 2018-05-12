@@ -1,0 +1,27 @@
+_repo: San-Cravate--or-The-Messengers--Little-Streams_38001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kock, Paul de
+    alias: Kock, Charles Paul de
+    birthdate: 1793
+    deathdate: 1871
+    gutenberg_agent_id: '34988'
+    url: http://www.gutenberg.org/2009/agents/34988
+description: ''
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+title: Sans-Cravate; or, The Messengers; Little Streams
+url: http://www.gutenberg.org/ebooks/38001
